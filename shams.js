@@ -1,2 +1,4 @@
 if (condition) {
 }
+
+while (condition) {}
